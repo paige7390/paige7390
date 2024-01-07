@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+// Hello, my name is Paige.
+// I am currently working on Tech Elevator Jan 2024 NLR Prework.
+// Fun fact: I am very tired.
