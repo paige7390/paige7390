@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hello, my name is Paige. 
-I am currently working on Tech Elevator Jan 2024 NLR Prework. 
-Fun fact: I am very tired.
+I am currently working on Tech Elevator Jan 2024 NLR Prework.
