@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hello, my name is Paige. 
-I am currently working on Tech Elevator Jan 2024 NLR Prework.
+I am currently attending Tech Elevator's 14-week full-stack coding bootcamp.
